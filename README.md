@@ -1,8 +1,5 @@
 # **Waste Management using Deep Learning: AICTE & SHELL Internship**
 
-**Intern Name:** Mohammad Faizan S  
-**Duration:** 4-weeks internship presented by Edunet Foundation, in collaboration with AICTE & Shell  
-**Focus:** Green Skills using AI technologies
 
 ---
 
@@ -77,7 +74,6 @@ This project showcases how Deep Learning automates waste detection and classific
 
 ---
 
-## Weekly Report Instructions
-- Create progress logs in folders: **Week1**, **Week2**, **Week3**, **Week4**
-- Each week, add program files, results, analysis, and your reflections in the respective folder.
-- Update this README and your folder contents as your project advances.
+**Done By:** Mohammad Faizan S  
+**Internship Duration & Organisation:** 4-weeks internship presented by Edunet Foundation, in collaboration with AICTE & Shell  
+**Focus:** Green Skills using AI technologies
