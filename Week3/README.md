@@ -1,9 +1,9 @@
-# **WEEK 2 PROGRESS: Data Preparation and Baseline Model Prototyping**
+# **WEEK 3 PROGRESS: Model Building**
 
 ---
 
 ## 1. Overview
-This week marked the transition from project planning to core implementation. The primary focus was on establishing a robust **data pipeline** and implementing a **baseline Deep Learning model** to validate the end-to-end workflow, aligning with the Proposed Methodology (Section 5) and initial Implementation steps (Section 7) of the project plan outlined in the main `README.md`.
+This week marked the transition from project planning to core implementation. The primary focus was on establishing a robust **Model Building** and implementing it to validate the end-to-end workflow, aligning with the Proposed Methodology (Section 5) and initial Implementation steps (Section 7) of the project plan outlined in the main `README.md`.
 
 ---
 
@@ -40,3 +40,4 @@ The next phase will focus on leveraging advanced techniques to significantly imp
 ---
 **Done By:** Mohammad Faizan S
 **Internship Week:** Week 2
+
